@@ -1,2 +1,2 @@
 # clone
-It is the close of websites
+It is the replica of websites
